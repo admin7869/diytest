@@ -503,8 +503,7 @@ The Memory Palace requires regular maintenance to maintain its effectiveness:
 - **Record version differences**: Create different Memory Palaces or markers for different UE5 versions to avoid confusion.
 - **Integrate with actual projects**: Combine the experience from actual projects with the Memory Palace to create project‑specific memory pegs.
 
-### XIV. Summary
-
+### XIV. In preliminary summary, the book will be continuously updated.
 This **Future Tech City** Memory Palace transforms the complex knowledge system of UEC++ into intuitive spatial memory, enhancing memorization through the following methods:
 
 1. **Clear hierarchical structure**: The five major functional districts correspond to the five core subsystems of UE5, with buildings further designed according to module hierarchy.
